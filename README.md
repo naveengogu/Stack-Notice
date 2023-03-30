@@ -8,7 +8,7 @@ In the case of the statement "We update this page every day, review the page to 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
 |grafana|null|null|
-jenkins
+|jenkins|null|null|
 terraform
 |prometheus|null|null|
 
