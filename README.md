@@ -9,5 +9,7 @@ In the case of the statement "We update this page every day, review the page to 
 | :----- | :---: | :---: |
 |grafana|2023-03-22|v9.4.7|
 jenkins
+terraform
 |prometheus|2023-03-21|v2.43.0|
+
 
