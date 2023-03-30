@@ -10,6 +10,11 @@ In the case of the statement "We update this page every day, review the page to 
 |elasticsearch|2023-03-30|v8.7.0|
 |grafana|2023-03-22|v9.4.7|
 |jenkins|2023-03-28|jenkins-2.397|
+kibana
+logstash
+beats
+apm
+ecs
 |terraform|2023-03-30|v1.4.4|
 |prometheus|2023-03-21|v2.43.0|
 
