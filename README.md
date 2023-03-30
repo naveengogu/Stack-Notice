@@ -7,6 +7,6 @@ In the case of the statement "We update this page every day, review the page to 
 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
-|grafana|2023-03-22|v9.4.7|
+|grafana|2023-03-22||
 |prometheus|2023-03-21||
 
