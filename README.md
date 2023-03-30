@@ -7,4 +7,4 @@ In the case of the statement "We update this page every day, review the page to 
 
 | Stack Name | updated on    | current version    |
 | :-----: | :---: | :---: |
-| prometheus | 2023-03-21   | 2.43.0   |
+|prometheus|2023-03-21|2.43.0|
