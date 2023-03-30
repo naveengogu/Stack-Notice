@@ -8,8 +8,8 @@ In the case of the statement "We update this page every day, review the page to 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
 |grafana|2023-03-22|v9.4.7|
-jenkins
-terraform
+|jenkins|2023-03-28|jenkins-2.397|
+|terraform|2023-03-30|v1.4.4|
 |prometheus|2023-03-21|v2.43.0|
 
 
