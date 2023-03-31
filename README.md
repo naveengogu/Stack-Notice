@@ -19,7 +19,7 @@ In the case of the statement "We update this page every day, review the page to 
 |maven|2023-03-18|maven-3.9.1|
 |logstash|2023-03-30|v8.7.0|
 |terraform|2023-03-30|v1.4.4|
-tomcat
+|tomcat|null|null|
 |prometheus|2023-03-21|v2.43.0|
 
 
