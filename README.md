@@ -5,7 +5,9 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-last update of this page is Friday 31 March 2023 08:58:53 AM UTC 
+*last update of this page is Friday 31 March 2023 08:58:53 AM UTC 
+
+<center>
 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
@@ -24,4 +26,4 @@ consul
 |terraform|2023-03-30|v1.4.4|
 |prometheus|2023-03-21|v2.43.0|
 
-
+</center>
