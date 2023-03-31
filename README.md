@@ -14,7 +14,7 @@ In the case of the statement "We update this page every day, review the page to 
 |elasticsearch|2023-03-30|v8.7.0|
 |grafana|2023-03-22|v9.4.7|
 |jenkins|2023-03-28|jenkins-2.397|
-kafka
+|kafka|null|null|
 |kibana|2023-03-30|v8.7.0|
 |maven|2023-03-18|maven-3.9.1|
 |logstash|2023-03-30|v8.7.0|
