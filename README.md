@@ -5,6 +5,8 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
+**last update: ** 
+
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
 |ansible|2023-03-27|v2.14.4|
