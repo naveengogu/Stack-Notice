@@ -7,7 +7,7 @@ In the case of the statement "We update this page every day, review the page to 
 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
-ansible
+|ansible|2023-03-27|v2.14.4|
 |beats|2023-03-30|v8.7.0|
 |docker-ce|2020-12-02|v19.03.14|
 |ecs|2023-03-30|v8.7.0|
