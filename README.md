@@ -16,7 +16,7 @@ In the case of the statement "We update this page every day, review the page to 
 |jenkins|2023-03-28|jenkins-2.397|
 kafka
 |kibana|2023-03-30|v8.7.0|
-maven
+|maven|2023-03-18|maven-3.9.1|
 |logstash|2023-03-30|v8.7.0|
 |terraform|2023-03-30|v1.4.4|
 tomcat
