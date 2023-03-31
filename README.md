@@ -22,6 +22,7 @@ In the case of the statement "We update this page every day, review the page to 
 |kibana|2023-03-30|v8.7.0|
 |kubernetes|2023-03-17|v1.26.3|
 |maven|2023-03-18|maven-3.9.1|
+nagios
 |logstash|2023-03-30|v8.7.0|
 |terraform|2023-03-30|v1.4.4|
 |prometheus|2023-03-21|v2.43.0|
