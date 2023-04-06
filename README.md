@@ -12,6 +12,10 @@ In the case of the statement "We update this page every day, review the page to 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
 |ansible|2023-03-27|v2.14.4|
+argo-cd
+argo-events
+argo-rollouts
+argo-workflows 
 |beats|2023-03-30|v8.7.0|
 |cluster-autoscaler|2023-04-04|cluster-autoscaler-chart-9.28.0|
 |consul|2023-03-31|v1.15.2|
