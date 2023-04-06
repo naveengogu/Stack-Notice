@@ -24,6 +24,7 @@ In the case of the statement "We update this page every day, review the page to 
 |elasticsearch|2023-03-30|v8.7.0|
 |fluentd|2023-03-29|v1.16.0|
 |grafana|2023-03-22|v9.4.7|
+istio
 |jenkins|2023-04-05|jenkins-2.387.2|
 |keycloak|2023-03-30|21.0.2|
 |kibana|2023-03-30|v8.7.0|
