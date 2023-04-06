@@ -5,17 +5,17 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Wednesday 05 April 2023 10:19:01 PM UTC
+*last update of this page is Thursday 06 April 2023 01:27:01 PM UTC
 
 <center>
 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
 |ansible|2023-03-27|v2.14.4|
-argo-cd
-argo-events
-argo-rollouts
-argo-workflows 
+|argo-cd|2023-03-23|v2.6.7|
+|argo-events|2023-02-10|v1.7.6|
+|argo-rollouts|2023-02-25|v1.4.1|
+|argo-workflows|2023-03-31|v3.4.6|
 |beats|2023-03-30|v8.7.0|
 |cluster-autoscaler|2023-04-04|cluster-autoscaler-chart-9.28.0|
 |consul|2023-03-31|v1.15.2|
