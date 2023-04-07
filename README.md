@@ -12,6 +12,7 @@ In the case of the statement "We update this page every day, review the page to 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
 |ansible|2023-03-27|v2.14.4|
+alertmanager
 |argo-cd|2023-03-23|v2.6.7|
 |argo-events|2023-02-10|v1.7.6|
 |argo-rollouts|2023-02-25|v1.4.1|
@@ -35,6 +36,7 @@ In the case of the statement "We update this page every day, review the page to 
 |kibana|2023-03-30|v8.7.0|
 |kubernetes|2023-03-17|v1.26.3|
 |maven|2023-03-18|maven-3.9.1|
+minio
 |nagios|2023-01-17|nagios-4.4.10|
 |logstash|2023-03-30|v8.7.0|
 |selenium|2023-01-23|selenium-4.8.0|
