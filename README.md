@@ -18,12 +18,14 @@ In the case of the statement "We update this page every day, review the page to 
 |argo-workflows|2023-03-31|v3.4.6|
 |beats|2023-03-30|v8.7.0|
 |cert-manager|2023-01-11|v1.11.0|
+chef
 |cluster-autoscaler|2023-04-04|cluster-autoscaler-chart-9.28.0|
 |consul|2023-03-31|v1.15.2|
 |docker-ce|2020-12-02|v19.03.14|
 |ecs|2023-03-30|v8.7.0|
 |elasticsearch|2023-03-30|v8.7.0|
 |fluentd|2023-03-29|v1.16.0|
+gradle
 |grafana|2023-03-22|v9.4.7|
 |hashicorp-vault|2023-03-29|v1.13.1|
 |helm|2023-03-08|v3.11.2|
@@ -35,7 +37,9 @@ In the case of the statement "We update this page every day, review the page to 
 |maven|2023-03-18|maven-3.9.1|
 |nagios|2023-01-17|nagios-4.4.10|
 |logstash|2023-03-30|v8.7.0|
+selenium
 |terraform|2023-03-30|v1.4.4|
+vagrant
 |prometheus|2023-03-21|v2.43.0|
 
 </center>
