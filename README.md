@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Wednesday 12 April 2023 02:29:19 PM UTC
+*last update of this page is Friday 14 April 2023 04:38:42 AM UTC
 
 <center>
 
@@ -30,18 +30,18 @@ In the case of the statement "We update this page every day, review the page to 
 |gradle|2023-04-12|v8.1.0|
 |grafana|2023-03-22|v9.4.7|
 |hashicorp-vault|2023-03-29|v1.13.1|
-|helm|2023-03-08|v3.11.2|
+|helm|2023-04-12|v3.11.3|
 |istio|2023-04-04|1.17.2|
 |jenkins|2023-04-11|jenkins-2.400|
 |keycloak|2023-03-30|21.0.2|
 |kibana|2023-03-30|v8.7.0|
-|kubernetes|2023-04-11|v1.27.0|
+|kubernetes|2023-04-12|v1.24.13|
 |maven|2023-03-18|maven-3.9.1|
-|minio|2023-04-07|RELEASE.2023-04-07T05-28-58Z|
+|minio|2023-04-13|RELEASE.2023-04-13T03-08-07Z|
 |nagios|2023-01-17|nagios-4.4.10|
 |logstash|2023-03-30|v8.7.0|
 |selenium|2023-01-23|selenium-4.8.0|
-|terraform|2023-03-30|v1.4.4|
+|terraform|2023-04-12|v1.4.5|
 |vagrant|2022-12-10|v2.3.4|
 |prometheus|2023-03-21|v2.43.0|
 |prometheus-node-exporter|2022-11-29|v1.5.0|
