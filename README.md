@@ -5,13 +5,13 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Saturday 22 April 2023 04:54:31 PM UTC
+*last update of this page is Tuesday 25 April 2023 04:59:11 AM UTC
 
 <center>
 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
-|ansible|2023-03-27|v2.14.4|
+|ansible|2023-04-24|v2.14.5|
 |alertmanager|2022-12-23|v0.25.0|
 |argo-cd|2023-03-23|v2.6.7|
 |argo-events|2023-02-10|v1.7.6|
