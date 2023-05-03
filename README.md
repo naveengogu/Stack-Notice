@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Tuesday 02 May 2023 06:19:15 AM UTC
+*last update of this page is Wednesday 03 May 2023 11:29:55 AM UTC
 
 <center>
 
@@ -13,11 +13,11 @@ In the case of the statement "We update this page every day, review the page to 
 | :----- | :---: | :---: |
 |ansible|2023-04-24|v2.14.5|
 |alertmanager|2022-12-23|v0.25.0|
-|argo-cd|2023-05-02|v2.7.0|
+|argo-cd|2023-05-02|v2.7.1|
 |argo-events|2023-02-10|v1.7.6|
 |argo-rollouts|2023-02-25|v1.4.1|
 |argo-workflows|2023-04-11|v3.4.7|
-|beats|2023-03-30|v8.7.0|
+|beats|2023-05-02|v7.17.10|
 |cert-manager|2023-04-07|v1.11.1|
 |chef|2020-02-20|v15.8.23|
 |cluster-autoscaler|2023-04-07|addon-resizer-1.8.18|
@@ -25,21 +25,21 @@ In the case of the statement "We update this page every day, review the page to 
 |cortex|2023-04-28|v1.15.1|
 |docker-ce|2020-12-02|v19.03.14|
 |ecs|2023-03-30|v8.7.0|
-|elasticsearch|2023-03-30|v8.7.0|
+|elasticsearch|2023-05-02|v7.17.10|
 |fluentd|2023-04-17|v1.16.1|
 |gradle|2023-04-21|v8.1.1|
 |grafana|2023-04-26|v9.5.1|
 |hashicorp-vault|2023-04-26|v1.13.2|
 |helm|2023-04-12|v3.11.3|
 |istio|2023-04-04|1.17.2|
-|jenkins|2023-04-25|jenkins-2.402|
+|jenkins|2023-05-02|jenkins-2.403|
 |keycloak|2023-04-26|21.1.1|
-|kibana|2023-03-30|v8.7.0|
+|kibana|2023-05-02|v7.17.10|
 |kubernetes|2023-04-14|v1.27.1|
 |maven|2023-03-18|maven-3.9.1|
 |minio|2023-04-28|RELEASE.2023-04-28T18-11-17Z|
 |nagios|2023-04-14|nagios-4.4.11|
-|logstash|2023-03-30|v8.7.0|
+|logstash|2023-05-02|v7.17.10|
 |selenium|2023-04-20|selenium-4.9.0|
 |terraform|2023-04-26|v1.4.6|
 |vagrant|2022-12-10|v2.3.4|
