@@ -5,13 +5,13 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Monday 15 May 2023 05:39:40 AM UTC
+*last update of this page is Wednesday 17 May 2023 04:26:06 AM UTC
 
 <center>
 
 | Stack Name | released on    | current version    |
 | :----- | :---: | :---: |
-|ansible|2023-04-24|v2.14.5|
+|ansible|2023-05-15|v2.15.0|
 |alertmanager|2022-12-23|v0.25.0|
 |argo-cd|2023-05-12|v2.7.2|
 |argo-events|2023-05-08|v1.8.0|
@@ -21,7 +21,7 @@ In the case of the statement "We update this page every day, review the page to 
 |cert-manager|2023-05-09|v1.11.2|
 |chef|2020-02-20|v15.8.23|
 |cluster-autoscaler|2023-05-08|cluster-autoscaler-1.27.1|
-|consul|2023-03-31|v1.15.2|
+|consul|2023-05-16|v1.14.7|
 |cortex|2023-05-10|v1.15.2|
 |docker-ce|2020-12-02|v19.03.14|
 |ecs|2023-03-30|v8.7.0|
@@ -32,7 +32,7 @@ In the case of the statement "We update this page every day, review the page to 
 |hashicorp-vault|2023-04-26|v1.13.2|
 |helm|2023-05-10|v3.12.0|
 |istio|2023-04-04|1.17.2|
-|jenkins|2023-05-09|jenkins-2.404|
+|jenkins|2023-05-16|jenkins-2.405|
 |keycloak|2023-04-26|21.1.1|
 |kibana|2023-05-02|v7.17.10|
 |kubernetes|2023-04-14|v1.27.1|
