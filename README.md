@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Friday 19 May 2023 11:05:31 AM UTC
+*last update of this page is Monday 22 May 2023 04:46:20 AM UTC
 
 <center>
 
@@ -18,7 +18,7 @@ In the case of the statement "We update this page every day, review the page to 
 |argo-rollouts|2023-05-08|v1.5.0|
 |argo-workflows|2023-04-11|v3.4.7|
 |beats|2023-05-02|v7.17.10|
-|cert-manager|2023-05-09|v1.11.2|
+|cert-manager|2023-05-19|v1.12.0|
 |chef|2020-02-20|v15.8.23|
 |cluster-autoscaler|2023-05-08|cluster-autoscaler-1.27.1|
 |consul|2023-03-31|v1.15.2|
@@ -42,7 +42,7 @@ In the case of the statement "We update this page every day, review the page to 
 |logstash|2023-05-02|v7.17.10|
 |selenium|2023-04-20|selenium-4.9.0|
 |terraform|2023-04-26|v1.4.6|
-|vagrant|2023-05-16|v2.3.5|
+|vagrant|2023-05-19|v2.3.6|
 |prometheus|2023-03-21|v2.43.0|
 |prometheus-node-exporter|2022-11-29|v1.5.0|
 
