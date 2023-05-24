@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Monday 22 May 2023 04:46:20 AM UTC
+*last update of this page is Wednesday 24 May 2023 11:24:00 AM UTC
 
 <center>
 
@@ -20,7 +20,7 @@ In the case of the statement "We update this page every day, review the page to 
 |beats|2023-05-02|v7.17.10|
 |cert-manager|2023-05-19|v1.12.0|
 |chef|2020-02-20|v15.8.23|
-|cluster-autoscaler|2023-05-08|cluster-autoscaler-1.27.1|
+|cluster-autoscaler|2023-05-23|cluster-autoscaler-chart-9.29.0|
 |consul|2023-03-31|v1.15.2|
 |cortex|2023-05-10|v1.15.2|
 |docker-ce|2020-12-02|v19.03.14|
@@ -32,7 +32,7 @@ In the case of the statement "We update this page every day, review the page to 
 |hashicorp-vault|2023-04-26|v1.13.2|
 |helm|2023-05-10|v3.12.0|
 |istio|2023-04-04|1.17.2|
-|jenkins|2023-05-16|jenkins-2.405|
+|jenkins|2023-05-23|jenkins-2.406|
 |keycloak|2023-04-26|21.1.1|
 |kibana|2023-05-02|v7.17.10|
 |kubernetes|2023-05-18|v1.25.10|
