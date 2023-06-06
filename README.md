@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Tuesday 06 June 2023 11:50:01 AM UTC
+*last update of this page is Tuesday 06 June 2023 11:50:18 AM UTC
 
 <center>
 
@@ -13,7 +13,7 @@ In the case of the statement "We update this page every day, review the page to 
 | :----- | :---: | :---: |
 |ansible|2023-05-15|v2.15.0|
 |alertmanager|2022-12-23|v0.25.0|
-|argo-cd|2023-05-24|v2.7.3|
+|argo-cd|2023-06-05|v2.7.4|
 |argo-events|2023-05-08|v1.8.0|
 |argo-rollouts|2023-05-24|v1.5.1|
 |argo-workflows|2023-05-25|v3.4.8|
