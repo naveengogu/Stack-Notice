@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Thursday 08 June 2023 01:17:51 PM UTC
+*last update of this page is Thursday 08 June 2023 01:17:56 PM UTC
 
 <center>
 
@@ -40,7 +40,7 @@ In the case of the statement "We update this page every day, review the page to 
 |minio|2023-06-03|RELEASE.2023-06-02T23-17-26Z|
 |nagios|2023-06-01|nagios-4.4.13|
 |logstash|2023-06-08|v8.8.1|
-|selenium|2023-04-20|selenium-4.9.0|
+|selenium|2023-06-07|selenium-4.10.0|
 |terraform|2023-04-26|v1.4.6|
 |vagrant|2023-05-19|v2.3.6|
 |prometheus|2023-03-21|v2.43.0|
