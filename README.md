@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Tuesday 06 June 2023 11:50:18 AM UTC
+*last update of this page is Thursday 08 June 2023 01:17:56 PM UTC
 
 <center>
 
@@ -17,7 +17,7 @@ In the case of the statement "We update this page every day, review the page to 
 |argo-events|2023-05-08|v1.8.0|
 |argo-rollouts|2023-05-24|v1.5.1|
 |argo-workflows|2023-05-25|v3.4.8|
-|beats|2023-05-25|v8.8.0|
+|beats|2023-06-08|v8.8.1|
 |cert-manager|2023-05-25|v1.12.1|
 |chef|2020-02-20|v15.8.23|
 |cluster-autoscaler|2023-05-29|cluster-autoscaler-1.27.2|
@@ -25,22 +25,22 @@ In the case of the statement "We update this page every day, review the page to 
 |cortex|2023-05-10|v1.15.2|
 |docker-ce|2020-12-02|v19.03.14|
 |ecs|2023-05-25|v8.8.0|
-|elasticsearch|2023-05-25|v8.8.0|
+|elasticsearch|2023-06-08|v8.8.1|
 |fluentd|2023-04-17|v1.16.1|
 |gradle|2023-04-21|v8.1.1|
 |grafana|2023-06-06|v9.5.3|
-|hashicorp-vault|2023-04-26|v1.13.2|
+|hashicorp-vault|2023-06-08|v1.13.3|
 |helm|2023-05-10|v3.12.0|
-|istio|2023-04-04|1.17.2|
-|jenkins|2023-05-31|jenkins-2.401.1|
+|istio|2023-06-07|1.18.0|
+|jenkins|2023-06-07|jenkins-2.409|
 |keycloak|2023-04-26|21.1.1|
-|kibana|2023-05-25|v8.8.0|
+|kibana|2023-06-08|v8.8.1|
 |kubernetes|2023-05-18|v1.25.10|
 |maven|2023-05-11|maven-3.9.2|
 |minio|2023-06-03|RELEASE.2023-06-02T23-17-26Z|
 |nagios|2023-06-01|nagios-4.4.13|
-|logstash|2023-05-25|v8.8.0|
-|selenium|2023-04-20|selenium-4.9.0|
+|logstash|2023-06-08|v8.8.1|
+|selenium|2023-06-07|selenium-4.10.0|
 |terraform|2023-04-26|v1.4.6|
 |vagrant|2023-05-19|v2.3.6|
 |prometheus|2023-03-21|v2.43.0|
