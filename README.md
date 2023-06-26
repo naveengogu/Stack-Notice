@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Wednesday 21 June 2023 11:22:27 AM UTC
+*last update of this page is Monday 26 June 2023 04:40:32 AM UTC
 
 <center>
 
@@ -22,13 +22,13 @@ In the case of the statement "We update this page every day, review the page to 
 |chef|2020-02-20|v15.8.23|
 |cluster-autoscaler|2023-06-13|cluster-autoscaler-chart-9.29.1|
 |consul|2023-06-01|v1.15.3|
-|cortex|2023-05-10|v1.15.2|
+|cortex|2023-06-23|v1.15.3|
 |docker-ce|2020-12-02|v19.03.14|
 |ecs|2023-05-25|v8.8.0|
 |elasticsearch|2023-06-08|v8.8.1|
 |fluentd|2023-04-17|v1.16.1|
 |gradle|2023-04-21|v8.1.1|
-|grafana|2023-06-06|v9.5.3|
+|grafana|2023-06-22|v10.0.1|
 |hashicorp-vault|2023-06-20|v1.14.0|
 |helm|2023-06-14|v3.12.1|
 |istio|2023-06-07|1.18.0|
@@ -37,7 +37,7 @@ In the case of the statement "We update this page every day, review the page to 
 |kibana|2023-06-08|v8.8.1|
 |kubernetes|2023-06-14|v1.27.3|
 |maven|2023-05-11|maven-3.9.2|
-|minio|2023-06-19|RELEASE.2023-06-19T19-52-50Z|
+|minio|2023-06-24|RELEASE.2023-06-23T20-26-00Z|
 |nagios|2023-06-01|nagios-4.4.13|
 |logstash|2023-06-08|v8.8.1|
 |selenium|2023-06-07|selenium-4.10.0|
