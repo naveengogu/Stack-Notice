@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Wednesday 28 June 2023 11:42:22 AM UTC
+*last update of this page is Wednesday 28 June 2023 11:42:37 AM UTC
 
 <center>
 
@@ -33,7 +33,7 @@ In the case of the statement "We update this page every day, review the page to 
 |helm|2023-06-14|v3.12.1|
 |istio|2023-06-07|1.18.0|
 |jenkins|2023-06-28|jenkins-2.401.2|
-|keycloak|2023-04-26|21.1.1|
+|keycloak|2023-06-28|21.1.2|
 |kibana|2023-06-08|v8.8.1|
 |kubernetes|2023-06-14|v1.27.3|
 |maven|2023-06-26|maven-3.9.3|
