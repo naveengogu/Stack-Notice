@@ -1,0 +1,30 @@
+name: Auto Merge PR
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Check PR author
+        run: |
+          if [ "${{ github.event.pull_request.user.login }}" = "ngogu" ]; then
+            echo "PR author is the desired user."
+          else
+            echo "PR author is not the desired user. Skipping auto merge."
+            exit 1
+          fi
+
+      - name: Merge PR
+        uses: peter-evans/pull-request-mirror@v3
+        with:
+          mirror_permission: write
+          github_token: ${{ secrets.GITHUB_TOKEN }}
