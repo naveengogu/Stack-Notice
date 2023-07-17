@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Wednesday 12 July 2023 05:30:36 AM UTC
+*last update of this page is Monday 17 July 2023 05:30:06 AM UTC
 
 <center>
 
@@ -41,7 +41,7 @@ In the case of the statement "We update this page every day, review the page to 
 |nagios|2023-06-01|nagios-4.4.13|
 |logstash|2023-06-29|v8.8.2|
 |selenium|2023-06-07|selenium-4.10.0|
-|terraform|2023-06-28|v1.5.2|
+|terraform|2023-07-12|v1.5.3|
 |vagrant|2023-06-15|v2.3.7|
 |prometheus|2023-03-21|v2.43.0|
 |prometheus-node-exporter|2023-05-27|v1.6.0|
