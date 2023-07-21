@@ -27,4 +27,4 @@ jobs:
         uses: peter-evans/pull-request-mirror@v3
         with:
           mirror_permission: write
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN_G }}
