@@ -44,6 +44,5 @@ In the case of the statement "We update this page every day, review the page to 
 |terraform|2023-07-12|v1.5.3|
 |vagrant|2023-06-15|v2.3.7|
 |prometheus|2023-03-21|v2.43.0|
-|prometheus-node-exporter|2023-07-17|v1.6.1|
 
 </center>
