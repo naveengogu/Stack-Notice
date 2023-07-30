@@ -5,7 +5,7 @@ Keeping software tools up-to-date is an important aspect of any organization's I
 
 In the case of the statement "We update this page every day, review the page to get latest release version of tool"  
 
-*last update of this page is Sunday 30 July 2023 05:30:08 AM UTC
+*last update of this page is Sunday 30 July 2023 05:30:17 AM UTC
 
 <center>
 
@@ -24,7 +24,7 @@ In the case of the statement "We update this page every day, review the page to 
 |consul|2023-06-26|v1.16.0|
 |cortex|2023-06-23|v1.15.3|
 |docker-ce|2020-12-02|v19.03.14|
-|ecs|2023-05-25|v8.8.0|
+|ecs|2023-07-26|v8.9.0|
 |elasticsearch|2023-07-25|v8.9.0|
 |fluentd|2023-07-14|v1.16.2|
 |gradle|2023-07-10|v8.2.1|
